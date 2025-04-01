@@ -1,4 +1,3 @@
-
 # Portfolio Web
 
 Welcome to my portfolio web project! This project showcases my skills as a front-end developer through a visually appealing and interactive web page.
@@ -6,6 +5,7 @@ Welcome to my portfolio web project! This project showcases my skills as a front
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Preview](#preview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Setup](#setup)
@@ -18,6 +18,14 @@ Welcome to my portfolio web project! This project showcases my skills as a front
 ## Introduction
 
 This portfolio website is designed to highlight my expertise in web development. It includes sections about myself, my skills, and my projects. The website is built using HTML, CSS, and JavaScript, ensuring a responsive and engaging user experience.
+
+## Preview
+
+Below is an overview picture of the website to give you a visual insight into its design and features:
+
+![Website Overview](![Screenshot 2025-04-02 022951](https://github.com/user-attachments/assets/1450627d-c300-4d03-a1dc-48b226ffb97f)
+)
+*Description: A screenshot of the homepage featuring a video background, navigation bar, introduction section, and other key features.*
 
 ## Features
 
