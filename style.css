@@ -217,7 +217,7 @@ header ul li:hover {
 .astronaut {
   position: relative;
   height: 350px;
-  right: -210px;
+  right: -92vh;
   margin-top: 17rem;
   margin-right: -18%;
   mix-blend-mode: lighten;
@@ -324,6 +324,9 @@ header ul li:hover {
   html {
     font-size: 95%;
   }
+  .container {
+    height: 105vh;
+  }
 
   header {
     padding: 0 20px;
@@ -352,8 +355,8 @@ header ul li:hover {
 
   .astronaut {
     height: 300px;
-    right: -120px;
-    margin-right: -20%;
+    right: -82vh;
+    /* margin-right: -20%; */
   }
 
   .info {
