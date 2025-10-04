@@ -495,7 +495,8 @@ header ul li:hover {
     gap: 8px;
   }
   .blackhole {
-    margin-top: -20%;
+    margin-top: 23%;
+    width: 128%;
   }
 
   .main-info {
